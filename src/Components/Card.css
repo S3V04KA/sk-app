@@ -1,0 +1,28 @@
+.Card {
+    width: min-content;
+    padding: 0em;
+    border-radius: 1em;
+    margin: 1em;
+    border: 0.1em solid #c7c7c700;
+    transition: all 250ms;
+}
+
+.Card:hover {
+    padding: 1em;
+    border-radius: 1em;
+    margin: 0.0em;
+    border: 0.1em solid #c7c7c7ff;
+}
+
+.Card img {
+    border-radius: 1em;
+    border-bottom: 10px solid #b1ec52;
+}
+
+.Card h1 {
+    margin: 0;
+}
+
+.Card p {
+    margin: 0;
+}

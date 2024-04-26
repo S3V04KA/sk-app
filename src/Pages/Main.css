@@ -1,0 +1,9 @@
+.Main {
+    padding: 4em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+}
